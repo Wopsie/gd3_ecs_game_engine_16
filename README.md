@@ -14,7 +14,9 @@ Samen met de studenten coderen we een eigen (basis) game engine gebaseerd op de 
 
 * voer `npm install` uit in de hoofdfolder
 
-* transpile je code via `npm run build`
+* start je server met `webpack-dev-server --progress --colors`
+
+* je site draait nu op: http://localhost:8080/webpack-dev-server/
 
 ##### Leesvoer:
 
@@ -26,6 +28,6 @@ En vergeet ook niet bij MDN te kijken
 
 * En wil je helemaal losgaan op je onderzoek? Check dan even hier: https://github.com/ericdouglas/ES6-Learning
 
-* Als je wilt weten wat er al in de nieuwste browsers wordt ondersteund: http://kangax.github.io/compat-table/es6
+* Als je wilt weten wat er al in de nieuwste browsers wordt ondersteund: kangax.github.io/compat-table/es6
 
 * De installatie van Babel kun je hier nog terug vinden: https://babeljs.io/docs/setup/#installation
